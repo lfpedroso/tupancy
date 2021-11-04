@@ -1,0 +1,24 @@
+{
+  "name": "tupancy",
+  "version": "1.0.0",
+  "description": "Site para o Grupo Escoteiro Tupancy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfpedroso/tupancy.git"
+  },
+  "author": "Luis Fernando Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfpedroso/tupancy/issues"
+  },
+  "homepage": "https://github.com/lfpedroso/tupancy#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
